@@ -33,6 +33,12 @@ Can be deployed on victim machines to scan the intranet.
 - upload_file.py: Starts a local tcp server, for netcat usage
 - xss_handler.py: Starts a local http server and generates xss payload to steal cookies
 - [padBuster.pl](https://github.com/AonCyberLabs/PadBuster)
+- ciscot7.py
+- chaosreader.pl
+- chaosreader0.94.pl
+- pickle.py
+- [42315](exploit.py)
+- mysmb.py
 - sql.php: Execute sql queries passed via GET/POST
 - util.py: Collection of some small functions
 - fileserver.py: Create a temporary http server serving in-memory files
