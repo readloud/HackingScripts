@@ -39,7 +39,7 @@ Can be deployed on victim machines to scan the intranet.
 - pickle.py
 - [42315](exploit.py)
 - mysmb.py
-- SQLmap tamper scripts 
+- [SQLmap tamper scripts](tamperscript)
 - sql.php: Execute sql queries passed via GET/POST
 - util.py: Collection of some small functions
 - fileserver.py: Create a temporary http server serving in-memory files
