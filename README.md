@@ -1,6 +1,6 @@
 # HackingScripts 
 
-This repository contains self-made [rhergenreder](https://github.com/rhergenreder/HackingScripts.git) and common scripts for information gathering, enumeration and more.
+This repository contains common scripts for information gathering, enumeration and more.
 
 ### Enumeration: Initial Scans
 - first_scan.sh: Performs initial nmap scan
