@@ -56,3 +56,5 @@ Can be deployed on victim machines to scan the intranet.
  - [windows-exploit-suggester.py](https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
  - [aspx-reverse-shell.aspx](https://github.com/borjmz/aspx-reverse-shell)
  - [xp_cmdshell.py](https://github.com/0xalwayslucky/pentesting-tools) (thanks to @alwayslucky)
+
+_Author_ [rhergenreder](https://github.com/rhergenreder/HackingScripts.git)
